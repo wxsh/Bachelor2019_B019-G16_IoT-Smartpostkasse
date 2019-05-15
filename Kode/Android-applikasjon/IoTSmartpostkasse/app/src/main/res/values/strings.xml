@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IoT-Smartpostkasse</string>
+    <string name="msg_token_fmt">%s</string>
+    <string name="msg_subscribed">%s</string>
+    <string name="msg_subscribe_failed">%s</string>
+    <string name="default_notification_channel_id">POST</string>
+</resources>
